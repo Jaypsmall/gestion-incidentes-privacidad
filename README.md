@@ -107,14 +107,6 @@ Una estructura inicial recomendada:
         └── script.js
 ```
 
-> Si `banner.png` se encuentra en una carpeta diferente, recuerda actualizar la ruta utilizada en `index.html`.
-
-Por ejemplo:
-
-```html
-<img src="assets/img/banner.png" alt="Banner Ciberseguridad">
-```
-
 ---
 
 ## 🎨 Diseño
@@ -191,13 +183,13 @@ No requiere un servidor para la versión actual.
 Puedes clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git clone https://github.com/Jaypsmall/gestion-incidentes-privacidad.git
 ```
 
 Entrar en el proyecto:
 
 ```bash
-cd TU-REPOSITORIO
+cd gestion-incidentes-privacidad
 ```
 
 Y abrir:
